@@ -11,6 +11,6 @@
 - apt install python
 - apt install git
 - pip install requests
-- git clone https://github.com/AwokID/IpGeo
+- git clone https://github.com/DavitID/IpGeo
 - cd IpGeo
 - python IpGeo.py
