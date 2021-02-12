@@ -3,7 +3,7 @@
  Adalah suatu alat serbaguna yang saya ciptakan menggunakan bahasa pemrograman python3.Alat ini berfungsi untuk menganalisis IP ADDRESS sebuah perangkat
 
 ### Screenshot
-<img src="https://d.top4top.io/p_1850lvrsy0.png">
+<img src="demo.png">
 
 ### Installation
 
